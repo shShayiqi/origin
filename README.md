@@ -1,10 +1,10 @@
->Welcome <3
+>Welcome <3 <3
 
 ### Date created
 2022-12-07 
 
 ### Project Title
-MY HUGE GIT PROJECT
+MY Awesome GIT PROJECT
 
 ### Description
 use git commands to push my python project
